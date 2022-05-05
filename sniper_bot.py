@@ -1,3 +1,5 @@
+#Sniper-bot cutrecillo
+
 from time import sleep
 from selenium import webdriver
 from requests_html import HTMLSession
