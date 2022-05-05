@@ -1,3 +1,4 @@
+#convertir archivo python a .exe
 from distutils.core import setup
 import py2exe
 #importar librerias del codigo
